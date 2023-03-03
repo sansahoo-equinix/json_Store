@@ -1,0 +1,39 @@
+[
+  {
+    "name" : "Sanskar",
+    "place" : "Nayagarh",
+    "email" : "sanskar@gamil.com",
+    "address": [
+      {
+        "street": "ODISHA",
+        "pin_code": 752084,
+        "addressType": "home",
+        "country": "india"
+      },{
+        "street": "BANGLORE",
+        "pin_code": 732980,
+        "addressType": "office",
+        "country": "india"
+      }
+    ]
+  },
+  {
+    "name" : "Aditya",
+    "place" : "Hyderabad",
+    "email" : "aditya@gamil.com",
+    "address": [
+      {
+        "street": "Church",
+        "pin_code": 8967001,
+        "addressType": "home",
+        "country": "india"
+      },{
+        "street": "Madurai",
+        "pin_code": 67450034,
+        "addressType": "office",
+        "country": "india"
+      }
+    ]
+  }
+
+]
